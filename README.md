@@ -1,6 +1,6 @@
 ## QML Notebook Analysis
 # Overview
-This Jupyter Notebook (qml.ipynb) performs an analysis on a malware dataset, including data exploration, visualization, and some basic machine learning preprocessing steps....
+This Jupyter Notebook (qml.ipynb) performs an analysis on a malware dataset, including data exploration, visualization, and some basic machine learning preprocessing steps...
 
 ## Contents
  1. Setup and Data Loading
